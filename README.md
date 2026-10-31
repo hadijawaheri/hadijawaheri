@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hadi%20Javaheri&fontSize=46&fontColor=ffffff" />
-</p>p>
+![Hadi Javaheri](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hadi%20Javaheri&fontSize=46&fontColor=ffffff)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=20&pause=1000&color=2B7FFF&center=true&vCenter=true&width=600&lines=Full-stack+developer;TypeScript+%C2%B7+Python" />
-</p>p>
+![Typing](https://readme-typing-svg.demolab.com?font=Vazirmatn&size=20&pause=1000&color=2B7FFF&center=true&vCenter=true&width=600&lines=Full-stack+developer;TypeScript+%C2%B7+Python)
 
 ## درباره‌ی من
 توسعه‌دهنده‌ی فول‌استک، علاقه‌مند به ساخت وب‌اپ‌های کاربردی با TypeScript و Python.
